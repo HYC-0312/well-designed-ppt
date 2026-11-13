@@ -23,5 +23,5 @@ description: 制作或实质修改演示文稿，尤其适用于课程讲解、�
 - 按 **字号 → 每页主题 → 公式 → 语句 → 标题 → 图片类型** 逐项过一遍；确认示意图与模型图的搭配，且模型图的结构和标注准确。修正后复看受影响页面。
 - 交付时说明最终文件、检查过的内容，以及仍需用户或领域专家核实的事实。不要把导出成功等同于公式或科学结论已正确。
 
-遇到理工科内容组织或证据选择难题，按需读 [内容与证据参考](references/stem-content-and-evidence.md)；交付前如需更细的技术验收，按需读 [渲染与技术验收](references/stem-slide-qa.md)。两份参考中的一般建议不覆盖本 skill 的字号和用户当前要求。
+创建新稿或大幅调整页面时，按需读 [页面设计与图像选择](references/slide-design.md)；遇到理工科内容组织或证据选择难题，按需读 [内容与证据参考](references/stem-content-and-evidence.md)；交付前如需更细的技术验收，按需读 [渲染与技术验收](references/stem-slide-qa.md)。复杂多页任务可复制 [逐页规划表](assets/slide-plan.json)；已有 PPTX 需要快速定位显式小字号时，可选用只读的 [基础检查脚本](scripts/check_pptx.py)。这些辅助材料不能代替逐页渲染和人工复核，也不覆盖用户当前要求。
 
