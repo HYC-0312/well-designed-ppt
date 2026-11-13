@@ -1,0 +1,24 @@
+{
+  "purpose": "复杂或长篇 PPT 的可选逐页规划表；复制到任务目录填写，不要把此空表当成已核实内容。",
+  "audience": null,
+  "duration_minutes": null,
+  "slide_defaults": {
+    "title_min_pt": 32,
+    "body_min_pt": 24,
+    "max_key_points": 5
+  },
+  "slides": [
+    {
+      "title": null,
+      "one_topic": null,
+      "audience_takeaway": null,
+      "visual_role": null,
+      "visual_source": null,
+      "formula_source": null,
+      "conditions_and_units": null,
+      "claim_source": null,
+      "needs_human_review": []
+    }
+  ]
+}
+
