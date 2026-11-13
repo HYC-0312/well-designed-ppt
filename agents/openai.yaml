@@ -1,0 +1,5 @@
+interface:
+  display_name: "高质量 PPT 制作"
+  short_description: "组织讲解内容，核对模型、公式和图表，并检查投影可读性"
+  default_prompt: "使用 $well-designed-ppt，根据我提供的资料制作或修改 PPT，完成逐页内容、字号、公式和图像检查。"
+
