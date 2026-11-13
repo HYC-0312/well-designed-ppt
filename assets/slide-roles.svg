@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="教学页示例：模型图与过程示意图搭配">
+  <rect width="1600" height="900" fill="#f7f9fc"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#17324d">
+    <text x="78" y="105" font-size="52" font-weight="700">研究对象与测量链路</text>
+    <text x="80" y="157" font-size="28">模型图交代结构与变量；示意图解释过程与顺序</text>
+
+    <rect x="72" y="206" width="700" height="560" rx="24" fill="#ffffff" stroke="#d5e2ea" stroke-width="3"/>
+    <text x="112" y="270" font-size="36" font-weight="700">模型图：对象、输入与测量位置</text>
+    <rect x="265" y="391" width="330" height="42" fill="#91c5d3"/>
+    <rect x="265" y="433" width="330" height="130" fill="#dbe9ef"/>
+    <rect x="265" y="563" width="330" height="42" fill="#5f7892"/>
+    <text x="355" y="475" font-size="30">研究对象</text>
+    <text x="395" y="596" font-size="26" fill="#ffffff">支撑</text>
+    <path d="M125 496H242" stroke="#0d878f" stroke-width="6" fill="none"/>
+    <path d="M242 496l-23-15v30z" fill="#0d878f"/>
+    <text x="118" y="454" font-size="29">输入 u(t)</text>
+    <circle cx="497" cy="411" r="17" fill="#17324d"/>
+    <path d="M497 394V345H635" stroke="#17324d" stroke-width="5" fill="none"/>
+    <text x="425" y="333" font-size="28">测量 y(t)</text>
+    <text x="108" y="708" font-size="27">需注明结构简化、边界与单位</text>
+
+    <rect x="818" y="206" width="710" height="560" rx="24" fill="#ffffff" stroke="#d5e2ea" stroke-width="3"/>
+    <text x="858" y="270" font-size="36" font-weight="700">示意图：过程与信息流向</text>
+    <rect x="878" y="377" width="175" height="132" rx="18" fill="#e0f2f2"/>
+    <rect x="1090" y="377" width="175" height="132" rx="18" fill="#e7eaf5"/>
+    <rect x="1302" y="377" width="175" height="132" rx="18" fill="#e0f2f2"/>
+    <text x="902" y="453" font-size="27">施加输入</text>
+    <text x="1115" y="453" font-size="27">对象响应</text>
+    <text x="1326" y="453" font-size="27">采集输出</text>
+    <path d="M1055 443H1086M1267 443h31" stroke="#0d878f" stroke-width="6" fill="none"/>
+    <path d="M1086 443l-17-12v24zM1298 443l-17-12v24z" fill="#0d878f"/>
+    <text x="861" y="613" font-size="27">箭头只表示实际讲解中的先后或传递关系</text>
+    <text x="861" y="708" font-size="27">证明结果时，另用可追溯的数据图</text>
+
+    <text x="80" y="833" font-size="25" fill="#5b6f80">教学排版示例；非实测结果、真实装置或制造图。</text>
+  </g>
+</svg>
+
